@@ -1,4 +1,7 @@
-# https://vjacheslav250.github.io/John-blog/index.html
+## https://vjacheslav250.github.io/John-blog/index.html
 
-## Figma template layout
-![Снимок экрана 2022-06-19 124020](https://user-images.githubusercontent.com/85240436/174478066-54054a5b-6788-4918-99a7-0ccee4665b08.png)
+### Figma template layout
+![Screenshot 2022-06-19 142213](https://user-images.githubusercontent.com/85240436/174478545-fcf21f8e-d07e-4ee2-9c05-5f39d07a4c31.png)
+
+
+
